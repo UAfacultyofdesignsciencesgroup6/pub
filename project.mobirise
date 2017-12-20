@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Uafacultyofdesignsciences_Group 6 NL",
-    "currentPage": "page11.html",
+    "currentPage": "page2.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 118,
     "versionPublish": "4.5.0",
@@ -2433,7 +2433,7 @@
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
                 "title": "FULL SCREEN SLIDER",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "Aluminium.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
