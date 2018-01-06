@@ -1,0 +1,11 @@
+
+.carousel-item{opacity:0.5;background-color: #333;}
+.carousel-item:hover{opacity:1;}
+.mbr-overlay{opacity: 0;}
+/*
+
+zet volgende regel in elke html pagina op regel 22:
+
+<link rel="stylesheet" href="assets/styles.css" type="text/css">
+
+*/
